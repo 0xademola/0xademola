@@ -3,7 +3,7 @@
 
 $ About Me
 > 0xademola
-> Design Engineer
+> Backend Developer
 > Computers are my heartbeat, listening to how my code run on hot servers cases and seeing my deployment show green is all I want. Understanding every single aspect of computers is my goal and doing so with typescript and rust is my aim.
 
 $ cat /bio.txt
@@ -34,3 +34,4 @@ $ ./show-stats.sh
 > Repos: 23 (Contributed: 30) | Stars: 342
 > Commits: 506 | Followers: 12
 > Lines of Code: 22,770 (26,641++, 3,871--)
+
