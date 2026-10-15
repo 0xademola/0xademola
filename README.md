@@ -14,15 +14,17 @@ I'm the founder of [Friehub](https://github.com/Friehub) and I maintain its open
 
 ## 🧙 Author and maintainer
 
-<img align="right" src="https://img.shields.io/github/stars/Friehub/Frensense-v2?style=flat" alt="Frensense stars">
-
 **[Frensense](https://github.com/Friehub/Frensense-v2)**
-Deterministic dataflow security scanner written in Rust. You teach it with a corpus of vulnerable and safe examples instead of hand-written rules. Ships as a CLI, an MCP server and an LSP.
+Deterministic dataflow security scanner written in Rust. You teach it with a corpus of vulnerable and safe examples instead of hand-written rules.
 
-<img align="right" src="https://img.shields.io/npm/dm/%40friehub%2Fblueprint?style=flat" alt="Blueprint downloads">
+<a href="https://crates.io/crates/frensense"><img src="https://img.shields.io/crates/d/frensense?label=crates.io&style=flat" alt="crates.io downloads"></a>
+<a href="https://www.npmjs.com/package/@friehub/frensense"><img src="https://img.shields.io/npm/dm/%40friehub%2Ffrensense?label=npm%20%2Fmonth&style=flat" alt="npm downloads per month"></a>
+<a href="https://github.com/Friehub/Frensense-v2"><img src="https://img.shields.io/github/stars/Friehub/Frensense-v2?style=flat" alt="stars"></a>
 
 **[Blueprint](https://github.com/Friehub/blueprint)**
-Open-source catalog of reusable backend module specifications that generates matching code for TypeScript, Python, Go, Rust and Java. Install with `npm install -g @friehub/blueprint`.
+Open-source catalog of reusable backend module specifications that generates matching code for TypeScript, Python, Go, Rust and Java.
+
+<a href="https://www.npmjs.com/package/@friehub/blueprint"><img src="https://img.shields.io/npm/dm/%40friehub%2Fblueprint?label=npm%20%2Fmonth&style=flat" alt="npm downloads per month"></a>
 
 ---
 
